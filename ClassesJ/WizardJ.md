@@ -138,3 +138,7 @@
 14レベル以降、君は比較的単純な呪文の力を増大さられるようになる。1～5レベルまでの、ダメージを与えるウィザード呪文を発動した時、君はその呪文の最大ダメージを与えることができる。
 
 最初にそうする分には何の副作用もないが、この特徴を大休憩を終える前に2度使用した場合、君は呪文発動の直後に(呪文レベル×2)d12の［死霊］ダメージを受ける。また、それ以降この特徴を大休憩を終える前に再び使用するたび、呪文レベル毎の［死霊］ダメージは1d12上昇する。この［死霊］ダメージは抵抗や完全耐性を無視する。
+
+# ライセンス
+注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

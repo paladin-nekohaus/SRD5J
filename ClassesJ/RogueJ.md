@@ -117,3 +117,7 @@
 
 #### 神速
 17レベルに達した時点で、君は待ち伏せをするのも危険から素早く逃れるのもお手のものである。君は各戦闘において、最初のラウンドに2回のターンを得られる。1回目は通常のイニシアチブで行い、2回目は(君のイニシアチブ－10)の時点で行う。不意を討たれている場合、君はこの特徴を使用できない。
+
+# ライセンス
+注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

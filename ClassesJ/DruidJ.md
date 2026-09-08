@@ -224,3 +224,7 @@
 14レベル以降、自然界のクリーチャーは君と自然の間のつながりを感じ取り、君を傷つけることをためらうようになる。"野獣"や"植物"のクリーチャーが君を攻撃する時、そのクリーチャーは君のドルイド呪文のセーヴ難易度に対して【判断力】セーヴィング・スローを行なわねばならず、失敗すると別の目標を選ばねばならない(そうしない場合その攻撃は自動で失敗する)。セーヴに成功した場合、そのクリーチャーは24時間の間この効果に対して完全耐性を有する。
 
 クリーチャーは君に対して攻撃を行う前にこの効果に気づく。
+
+# ライセンス
+注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

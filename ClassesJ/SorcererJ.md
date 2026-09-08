@@ -189,3 +189,7 @@
 
 #### 竜の威風  
 18レベル以降、君は祖先の竜の恐るべき存在感を身に宿し、周りの者たちを畏服あるいは恐怖させることができる。君は1回のアクションとして魔力点を5点消費することで、この力を宿して畏服のオーラもしくは恐怖のオーラを18m(60㌳)の範囲に放つことができる。1分経過するか君が(呪文に対する精神集中と同様に)精神集中を失うまで、このオーラの範囲内で自分のターンを開始した敵クリーチャーは【判断力】セーヴィング・スローに成功せねばならず、失敗するとこのオーラが終了するまで(畏服のオーラなら)魅了状態、もしくは(恐怖のオーラなら)恐怖状態になる。セーヴィング・スローに成功したクリーチャーは以後24時間君のオーラに対する完全耐性を有する。
+
+# ライセンス
+注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

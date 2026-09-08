@@ -288,3 +288,7 @@
 >**鎖の契約**：君の使い魔は普通より狡猾である。また、君の契約相手がフィーンドなら、その基本的な姿はインプやクアジットである。
 >**剣の契約**：君がフィーンドに仕えている場合、例えばその武器は黒い鋼製で炎の装飾がなされた一丁の斧だったりするかもしれない。
 >**書の契約**：君の"影の書"は、フィーンドからの贈り物であるしてデーモンの皮に鉄鋲を打ち込んで装丁された──召喚術と宇宙に存在する邪悪な領域に関する禁断の知識で満載な──重量級の書物で、フィーンドからの贈られたものかもしれない。
+
+# ライセンス
+注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

@@ -209,3 +209,7 @@
 >パラディンはその最も高い行動規範を護ろうとするものだが、最も高潔なパラディンでさえ時には過ちを犯す。ある時には正義の道というものがあまりにも厳しいものであるということがわかったことで、ある時には二つの悪の内ましな方を選ばねばならない状況によって、またある時には感情の高ぶりによって、パラディンは誓いを破る。  
 >通常、誓いを破ったパラディンは同じ信仰を持つクレリックか、同じ組織の別のパラディンに赦しを乞うことになる。パラディンは懺悔の証として、一晩中祈りを捧げたり、断食やそれに類する苦行を行ったりすることになる。そして、告白と赦しの儀式を終えたのちそのパラディンは心機一転となる。 
 >パラディンが故意に誓いを破り、悔い改める様子も示さない場合、その結果はより深刻なものになる可能性がある。GMの裁定により、悔い改めないパラディンはこのクラスを捨てて別のクラスになることを強いられるかもしれない。
+
+# ライセンス
+注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

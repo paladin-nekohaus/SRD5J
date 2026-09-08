@@ -166,3 +166,7 @@
 17レベル以降、君は誰かの身体に致命的な激震を与える力を得る。素手打撃でクリーチャーにヒットを与えた時、君は気ポイントを3点消費することで知覚不能な振動をそのクリーチャーをにもたらすことができる。この振動は君のモンク・レベルに等しい日数だけ持続する。君がアクションを用いて止めない限り、この振動は無害である。振動を止めるためには、君と目標が同じ次元界にいる必要がある。君がこのアクションを行った時、そのクリーチャーは【耐久力】セーヴィング・スローを行わねばならず、失敗するとそのヒット・ポイントは0になり、成功した場合でも10d10の［死霊］ダメージを受ける。
 
 君は一度に1体のクリーチャーしかこの特徴の影響下に置けない。君はこの振動を無害なまま終わらせることもでき、そうするのにアクションは必要ない。
+
+# ライセンス
+注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

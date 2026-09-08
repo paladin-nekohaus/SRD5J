@@ -117,3 +117,7 @@
 
 #### 生命力
 18レベル以降、戦闘中の君の回復力は頂点に達する。自分のターンの開始時、残りのヒット・ポイントが最大値の半分以下である場合、君は(5+自分の【耐久力】修正値)に等しいヒット・ポイントを回復する。ヒット・ポイントが0である場合はこの利益を得られない。  
+
+# ライセンス
+注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
+This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
