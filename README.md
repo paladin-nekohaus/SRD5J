@@ -2,7 +2,9 @@
 System Reference Document 5.1 (Japanese Version)
 
 # これは何か
-これはWizards of the Coastにより提供されているSystem Reference Document 5.1(SRD5.1)の日本語版ですぅ。翻訳はぱらでぃんが行なっていますぅ。
+これはWizards of the Coastにより提供されているSystem Reference Document 5.1(SRD5.1)の日本語版ですぅ。翻訳はぱらでぃん他、SRD5J参加者が行なっていますぅ。
+
+SRD5Jにはウィザーズ・オブ・ザ・コースト社が出版するダンジョンズ&ドラゴンズから、ゲームのデータや骨組みとなる部分を抽出したもので、これを使って我々はライセンスの許す限り自由にサプリメントやデータを作ることができますぅ。
 
 # ライセンス
 注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。
@@ -18,9 +20,8 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 使用条件は、
 
-> この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています。
-
-> This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document.
+> この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています。(注:SRD5Jのライセンス表記)
+> This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. (注:SRD5Jの元になったSRD5.1のライセンス表記)
 
 と、出典を明記することですぅ。
 
