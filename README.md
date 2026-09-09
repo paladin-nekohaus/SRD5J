@@ -22,7 +22,7 @@ This work includes material taken from the System Reference Document 5.1 (“SRD
 
 使用条件は、
 
-> この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています。(注:SRD5Jのライセンス表記)
+> この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています。(注:SRD5Jのライセンス表記)  
 > This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. (注:SRD5Jの元になったSRD5.1のライセンス表記)
 
 と、出典を明記することですぅ。
