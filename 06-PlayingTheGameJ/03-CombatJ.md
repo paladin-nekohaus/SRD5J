@@ -445,12 +445,3 @@ GMは戦闘の参加者を【敏捷力】判定の結果が最も高い者から
 隔武器の通常射程より遠くにいる目標に対して行われる**遠隔武器攻撃**は自動的にミスする。くわえて、目標が通常射程内にいる場合でも、使用している武器がクロスボウ、ネット、もしくは(スピア、トライデント、ダーツのような、)ジャヴェリンに類似していて"投擲"特性を持つ武器でない限りその攻撃ロールは不利を被る。
 
 完全に水中にいるクリーチャーや物体は［火］ダメージに対する抵抗を有する。
-
-
-# ライセンス
-
-注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
-
-
-
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

@@ -57,11 +57,3 @@
 #### 擬似次元界
 
 擬似次元界は、それ自身の独自の法則を持つ小さな異次元空間である。それらは他のどこにも収まらないように見える現実の断片である。擬似次元界はさまざまな手段によって生じる。一部は *デミプレイン* のような呪文によって作られたり、強大な神格やその他の力の望みによって生成されたりする。それらは自然に存在することも、また多元宇宙から摘み取られた既存の現実構造の一部として存在することも、あるいは力を増しつつある生まれたての宇宙として存在することもありうる。ある擬似次元界には、それが別の次元界に接する点を通じて入ることができる。理論上は *プレイン・シフト* の呪文でも旅人を擬似次元界へ運ぶことができるが、その疑似次元界の周波数に同調した音叉を手に入れるのは極めて難しい。術者がその擬似次元界のことを知っているならば、*ゲート* の呪文のほうが確実である。
-
----
-
-## ライセンス
-
-注記があるものを除き、このぱらでぃんによる“System Reference Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Reference Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
-
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

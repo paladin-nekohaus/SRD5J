@@ -31,12 +31,3 @@
 属性は、セレスチャルやフィーンドの性質の本質的な部分である。デヴィルは“秩序にして悪”であることを選ぶわけではなく、“秩序にして悪”に向かう傾向があるわけでもない。むしろ、その本質が“秩序にして悪”なのである。もし何らかの理由で“秩序にして悪”でなくなったなら、それはデヴィルではなくなるだろう。
 
 合理的な思考能力を持たないほとんどのクリーチャーは属性を持たない。つまり **無属性** である。そのようなクリーチャーは倫理的あるいは道徳的な選択をすることができず、獣としての本能に従って行動する。例えば、シャークは獰猛な捕食者であるが、悪ではない。彼らは属性を持たないのだ。
-
-# ライセンス
-注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。
-
-次のように出典を表記することで自由に二次利用が可能なライセンスです。
-
-例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
-
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

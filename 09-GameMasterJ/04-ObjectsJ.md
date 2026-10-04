@@ -38,12 +38,3 @@
 ***物体とダメージ種別:*** 物体は[毒]および[精神]ダメージに対する完全耐性を持つ。特定の物体や材質に対して、一部のダメージ種別が他よりも効果的であると判断してもよい。例えば、[殴打]ダメージは物を叩き壊すのには適しているが、ロープや革を切断するのには向いていない。紙や布の物体は、[火]や[電撃]ダメージに脆弱である可能性がある。つるはしは石を削り取れるが、木を効率よく切り倒すことはできないので、状況に応じた判断をしよう。
 
 ***ダメージ限界値:*** 城壁のような巨大な物体は、“ダメージ限界値(Damage Threshold)”によって表現される特別な頑丈さを備えていることが多い。ダメージ限界値を持つ物体は、1回の攻撃または効果からダメージ限界値以上のダメージを受けない限り、あらゆるダメージに対する完全耐性を持つ。ダメージ限界値以上のダメージを受けた場合は、通常通りダメージを受ける。物体のダメージ限界値に満たないダメージはすべて表面的なものとみなされ、物体のヒット・ポイントを減らすことはない。
-
-# ライセンス
-注記があるものを除き、このぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。
-
-次のように出典を表記することで自由に二次利用が可能なライセンスです。
-
-例:「この文書にはぱらでぃんによる“System Referrence Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
-
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

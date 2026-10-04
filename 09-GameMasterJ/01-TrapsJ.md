@@ -168,11 +168,3 @@
 仕掛け線は地面から7.5cm(3インチ)の高さにあり、2本の柱または木の間に張られている。網は蜘蛛の巣や木の葉で隠されている。仕掛け線と網を見つける難易度は10である。盗賊道具を用いた難易度15の【敏捷力】判定に成功すると、仕掛け線を無害に切断できる。盗賊道具を持たないキャラクターは、刃のついた武器や刃のついた道具を用いて、不利を受けてこの判定を試みることができる。判定に失敗すると、罠が作動する。
 
 罠が作動すると、網が放たれ、3m(10フィート)四方の範囲を覆う。その範囲にいる者は網の下に捕らわれて拘束状態になり、難易度10の【筋力】セーヴィング・スローに失敗した者はさらに伏せ状態にもなる。クリーチャーはアクションを使って難易度10の【筋力】判定を行ない、成功すれば自分自身または自分の間合い内にいる別のクリーチャーを解放できる。網はAC10、20ヒット・ポイントを持つ。網に5点の[斬撃]ダメージを与えると、その1.5m(5フィート)四方の区画が破壊され、その区画に捕らわれていたクリーチャーが解放される。
-
----
-
-## ライセンス
-
-注記があるものを除き、このぱらでぃんによる“System Reference Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Reference Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
-
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.

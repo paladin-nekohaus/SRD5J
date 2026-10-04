@@ -62,11 +62,3 @@
 ***夜半の涙(接種型)***: この毒を摂取したクリーチャーは、真夜中の刻限まで何の効果も受けない。それまでに毒が中和されていなかったなら、そのクリーチャーは難易度17の【耐久力】セーヴィング・スローに成功しなければならず、失敗したなら31(9d6)[毒]ダメージを、成功したならその半分のダメージを受ける。
 
 ***ワイヴァーン毒(致傷型)***: この毒は、死んでいるか無力状態のワイヴァーンから採取しなければならない。この毒にさらされたクリーチャーは難易度15の【耐久力】セーヴィング・スローを行なわねばならず、失敗したなら24(7d6)[毒]ダメージを、成功したならその半分のダメージを受ける。
-
----
-
-## ライセンス
-
-注記があるものを除き、このぱらでぃんによる“System Reference Document 5.1 日本語版(“SRD 5.1j”)”はクリエイティブ・コモンズ 表示 4.0(Creative Commons Attribution 4.0 International)の下に提供されています。次のように出典を表記することで自由に二次利用が可能なライセンスです。例:「この文書にはぱらでぃんによる“System Reference Document 5.1 日本語版(“SRD 5.1j”)”が含まれています」
-
-This work includes material taken from the System Reference Document 5.1 (“SRD 5.1”) by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode.
